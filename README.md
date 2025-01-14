@@ -2,6 +2,7 @@
 **Blending timeless wisdom with cutting-edge technology**  
 
 Welcome to **VedaX: Techno Solutions**, where ancient insights meet modern innovation to deliver transformative IT solutions. Rooted in the rich Indic tradition of knowledge (Veda) and driven by a spirit of exploration and excellence (X), we craft bespoke, future-ready solutions for businesses around the globe.
+
 Website : https://imkatyayan.github.io/VedaX/
 ---
 
